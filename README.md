@@ -1,4 +1,4 @@
-#👋 Hi there, I'm Zainab Ali! 👋
+# 👋 Hi there, I'm Zainab Ali! 👋
 
 🌟 **Full Stack Developer | Software Engineer**
 
