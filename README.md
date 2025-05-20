@@ -1,4 +1,4 @@
-# Hi there, I'm Zainab Ali! 👋
+👋 Hi there, I'm Zainab Ali! 👋
 
 🌟 **Full Stack Developer | Software Engineer**
 
@@ -20,7 +20,7 @@ I enjoy collaborating with teams and am always eager to develop my skills furthe
 ### 🎨 [MemesArt](#)
 _A collaborative project for sharing meme art among artists._
 
-- **Front-end:** HTML, CSS, JavaScript
+- **Front-end:** HTML, CSS, JavaScript, React
 - **Back-end:** Node.js, Express
 - **Database:** MySQL
 - **Team Collaboration:** Worked closely in a team to deliver a seamless platform for artists to share and discover memes art.
